@@ -1,0 +1,5 @@
+.vs_code/
+node_modules/
+.next/
+.DS_Store
+.idea/
