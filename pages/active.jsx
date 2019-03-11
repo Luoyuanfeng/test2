@@ -1,9 +1,12 @@
+import React, { Component } from 'react'
 import Layout from "./layout"
 
-const Active = () => (
-    <Layout>
-        <p>This is active page</p>
-    </Layout>
-)
-
-export default Active
+export default class Active extends Component {
+    render() {
+        return (
+            <Layout>
+               <p>This is active page</p>
+            </Layout>
+        )
+    }
+}
