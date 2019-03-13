@@ -1,0 +1,33 @@
+{
+    "tag_name": "Comp1",
+    "style": {
+        "background-color": "#FF5566",
+        "margin-top": 0,
+        "margin-bottom": 0,
+        "margin-left": 0,
+        "margin-right": 0,
+        "padding-top": 0,
+        "padding-bottom": 0,
+        "padding-left": 0,
+        "padding-right": 0
+    },
+    "model": {
+        "sku_info": [
+            {
+                "sku": "abc00123",
+                "navigate_to": "web",
+                "navigate_url": "https://h5.mryitao.cm/productDetail?sku="
+            }, {
+                "sku": "def00234",
+                "navigate_to": "app",
+                "navigate_url": "mryt://productDetail?sku="
+            }
+        ],
+        "show_target": [
+            "vip",
+            "common"
+        ],
+        ""
+    },
+    
+}
